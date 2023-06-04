@@ -1,0 +1,32 @@
+td{
+    border-bottom: 1px solid black;
+    gap: 0px;
+}
+th{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    gap: 0px;
+}
+table{
+    border: 2px solid black;
+}
+.textbox{
+    min-width: 350px;
+}
+.textbox1{
+    height:75px;
+    min-width: 350px;
+}
+.right{
+    text-align: right;
+}
+div > h1{
+    color: blue;
+    
+}
+h1{
+    text-align: center;
+}
+div .button{
+    margin-left: 45%;
+}
